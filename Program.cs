@@ -8,6 +8,6 @@ if (userNumber > zero)
                 zero = zero + 2;
                 Console.Write(zero+" ");
             }
-        while (userNumber - 2 > zero);
+        while (userNumber > zero);
     }
 else Console.Write("Enter even number");
